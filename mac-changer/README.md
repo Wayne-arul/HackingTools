@@ -1,7 +1,6 @@
 [![LINUX](https://img.shields.io/badge/Supported%20OS-Linux-green.svg)](https://www.linux.org/pages/download/)
 [![UBUNTU](https://img.shields.io/badge/Supported%20OS-Ubuntu-green)](https://www.linux.org/pages/download/)
 
-
 # MACPY :
 A Simple Python tool to change mac address of unix like operating systems 
 # Usage
@@ -11,7 +10,6 @@ A Simple Python tool to change mac address of unix like operating systems
 # Requirements
 should be installed net-tools
 install with these step from terminal
-
 
 sudo apt-get install net-tools
 # How to run this script:
